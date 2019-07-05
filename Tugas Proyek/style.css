@@ -1,0 +1,53 @@
+body{	
+	width: 100%;
+}
+#header{
+	font-size: 30pt; 
+	font-family: courier;
+	text-align: center;
+}
+.menu{
+	height: 70px;
+	text-align: center;
+	background-color: #4f4835;
+}
+.menu ul {
+	display: inline-block; 
+	list-style: none;
+}
+.menu ul li {
+
+	text-align: center;
+	float: left;
+} 
+.menu ul li a{
+	display: block;
+	color: #FFF;
+	text-decoration: none;
+	padding: 0px 20px;
+	line-height: 30px
+}
+.konten{
+	text-align: justify;
+	padding: 10px 10px;
+	font-size: 14pt;
+}
+.konten h1{
+	text-align: center;
+}
+.img { 
+  	border-radius:100em;
+  	width:160px;
+  	height:160px;
+}
+.footer{
+	text-align: center;
+	font-family: courier;
+	font-size: 17pt;
+	background-color: #4f4835;
+}
+a{
+	text-decoration: none;
+	color: #000000;
+}
+
